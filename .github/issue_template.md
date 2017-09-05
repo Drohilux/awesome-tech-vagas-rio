@@ -1,4 +1,4 @@
-#Descrição da vaga:
+# Descrição da vaga:
 
 
-#Como se candidatar ?:
+# Como se candidatar ?:
